@@ -1,0 +1,147 @@
+a, a:active, a:visited  {
+	color: #0D7E8F;
+	text-decoration: none;
+	outline-style: none;
+}
+
+a:hover {
+	color: #0D7E8F;
+	text-decoration: underline;
+}
+
+body {
+	margin: 0;
+	font-family: "Open Sans",sans-serif;
+	color: #ffffff;
+	background-color: #028E9B;
+	border-top: 5px solid #015C65;
+}
+
+img {
+	border: 0;
+}
+
+#page {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.main-title {
+	margin-top: 20px;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	font-size: 80px;
+}
+
+.thumb {
+	margin: 0px 0 20px 0;
+	text-align: center;
+}
+
+.thumb img {
+	margin: 30px 16px 0px 16px;
+	border: 5px #ffffff solid;
+}
+
+.text {
+	margin-top: 30px;
+	text-align: justify;
+	font-size: 18px;
+	line-height: 160%;
+}
+
+.main-photo img {
+	border: 10px solid #ffffff;
+}
+
+.big-phone-number {
+	font-size: 100px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.shadow {
+	text-shadow: 3px 3px 0px rgba(1, 92, 101, 0.7);
+}
+
+.address {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.title {
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	font-size: 40px;
+}
+
+hr {
+    border-color: #F5F5F5 -moz-use-text-color -moz-use-text-color;
+    border-image: none;
+    border-right: 0 none;
+    border-style: solid none none;
+    border-width: 2px 0 0;
+    margin: 1rem auto 1.5rem;
+    width: 3rem;
+}
+
+.table
+{
+	display: table;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.table-heading
+{
+	display: table-row;
+	font-weight: bold;
+	text-align: center;
+}
+
+.table-row
+{
+	display: table-row;
+}
+
+.table-cell
+{
+	display: table-cell;
+	border: solid;
+	border-width: thin;
+	border-color: #028E9B;
+	padding-left: 15px;
+	padding-right: 15px;
+	background-color: #015C65;
+}
+
+.anza-footer {
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.anza-footer span {
+    background-color: #015C65;
+    padding: 10px;
+}
+
+.link a {
+	color: #FFFFFF;
+	text-decoration: none;
+	outline-style: none;
+	border-bottom: 1px dotted;
+    text-decoration: none;
+    -o-transition: all 0.5s linear;
+    -moz-transition: all 0.5s linear;
+    -khtml-transition: all 0.5s linear;
+    -webkit-transition: all 0.5s linear;
+    -ms-transition: all 0.5s linear;
+    transition: all 0.5s linear;
+}
+
+.link a:hover {
+	color: #FFCC6D;
+}
