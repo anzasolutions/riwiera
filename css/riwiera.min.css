@@ -1,0 +1,27 @@
+body{font-family:"Open Sans", sans-serif;color:#ffffff;background-color:#028E9B;border-top:5px solid #015C65;}
+.main-photo{border:10px solid #ffffff;margin-bottom:20px;}
+.wrapper{padding:10px 0px;text-align:center;}
+.main-title, .title{text-align:center;font-family:'Lobster', cursive;}
+.main-title{font-size:50px;}
+.title{font-size:40px;}
+hr{border-color:#F5F5F5 -moz-use-text-color -moz-use-text-color;border-image:none;border-right:0 none;border-style:solid none none;border-width:2px 0 0;margin:1rem auto 1.5rem;width:5rem;}
+.text{margin-top:14px;padding-bottom:34px;text-align:justify;font-size:18px;line-height:160%;}
+table{background-color:#015C65;}
+.table{width:100%;margin-bottom:20px;text-align:center;margin:0 auto;font-size:18px;margin-top:20px;}
+.table-bordered td{border:2px solid #028E9B !important;}
+.table-bordered tr{padding:40px 0;}
+.thumb img{margin:30px 16px 0px 16px;}
+.anza-footer{margin:0 auto;text-align:center;padding-top:20px;padding-bottom:30px;}
+.anza-footer span{background-color:#015C65;padding:10px;}
+.glyphicon{margin:0px 5px;}
+@media (min-width:768px){.container{width:750px;}
+.main-title{font-size:80px;}
+.table{width:80%;}
+}
+@media (min-width:830px){.container{width:830px;}
+}
+@media (min-width:570px){.table{width:50%;}
+}
+.address{text-align:center;margin-bottom:20px;font-size:16px;}
+.link a{color:#FFFFFF;text-decoration:none;outline-style:none;border-bottom:1px dotted;text-decoration:none;-o-transition:all 0.5s linear;-moz-transition:all 0.5s linear;-khtml-transition:all 0.5s linear;-webkit-transition:all 0.5s linear;-ms-transition:all 0.5s linear;transition:all 0.5s linear;}
+.link a:hover{color:#FFCC6D;}
